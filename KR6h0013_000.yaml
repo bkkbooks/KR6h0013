@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0013/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀虛空藏菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0409.xml
+    old_id: T13n0409
+hash: sha256:c4a8b606ce988d1c4b1771f64548cc73eee03340889952086dffc5710dd266ee
