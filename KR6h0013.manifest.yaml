@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6h0013/v1
 canonical_location: https://kanripo.org/bkk/KR6h0013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀虛空藏菩薩經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6h0013_000.yaml, hash: 'sha256:c4a8b606ce988d1c4b1771f64548cc73eee03340889952086dffc5710dd266ee'}
-  - {seq: 1, filename: KR6h0013_001.yaml, hash: 'sha256:33053e8d36c180e524fda05e6ed66163a0bed921d83634bca70bbaf183a33280'}
+  - {seq: 1, filename: KR6h0013_001.yaml, hash: 'sha256:8c600117ab212db1d52fe7c5833508473065e40966baef9663f04167c488292f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6h0013_000.markers.yaml, hash: 'sha256:69c3850729988d6aa9b993cbe02ad25495ef62437aeba163c77a733d266ba59a'}
-  - {seq: 1, role: markers, filename: assets/KR6h0013_001.markers.yaml, hash: 'sha256:b7eab57d4e96552aa8493056dacdc2cb5083d97abd5a18059d84053f1ecccda3'}
+  - {seq: 1, role: markers, filename: assets/KR6h0013_001.markers.yaml, hash: 'sha256:7b689e0e6c470a1ed0e1c939eaaa66a2ab900e417d9577c1609eb28bd91b70f6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -72,4 +72,7 @@ table_of_contents:
   label: 附文
   type: mulu
   level: 1
-hash: sha256:142799a0aea329b3e8db94fbe6bee01e07c5461d08126b19211c95e68d5ed35f
+hash: sha256:59856b2907190bc4e7ae8dceb73bde8d0635fede383d2dd99a6060b04018e8e5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
